@@ -13,6 +13,7 @@ Sample log analysis with OpenSearch: indexing, searching and aggregation.
 ## Report
 
 Read the full report here: [SampleLog_Analysis_Report.md](SampleLog_Analysis_Report.md)
+Queries used: [queries.md](queries.md)
 
 ## Note
 

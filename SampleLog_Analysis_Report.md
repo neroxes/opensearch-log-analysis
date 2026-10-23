@@ -52,11 +52,10 @@ If this were real data, the following steps would be advised:
 OpenSearch and Dashboards are installed and working. Sample logs were indexed, searched and aggregated, and the analysis found a likely brute-force attack that succeeded against the `admin` account. This shows how OpenSearch can turn raw logs into clear security findings quickly.\
 
 
-Proof\
-&#91;image: Screenshot 2026-10-22 194056.png\]
 
-&#91;image: image.png\]
+<img width="1447" height="662" alt="Screenshot 2026-10-22 204832" src="https://github.com/user-attachments/assets/d60c815f-5fd6-4ef4-9c0d-fb683b36fca9" />
+<img width="1652" height="855" alt="Screenshot 2026-10-22 204526" src="https://github.com/user-attachments/assets/02bcd69c-06dd-4e3f-9bd8-47d62091dae0" />
+<img width="1912" height="711" alt="Screenshot 2026-10-22 194056" src="https://github.com/user-attachments/assets/a40ba95c-754b-4600-b8af-8ceb55efb6b7" />
 
-&#91;image: image.png\]
 
 *Note: the log data used here is made-up sample data created for practice. The IP addresses come from ranges reserved for documentation.*
